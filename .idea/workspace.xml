@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="885919be-caad-45a0-b76c-64d7fa9dd257" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="miniature-octo-spice.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376527174827" ignored="false" />
+    <file path="/Dummy.txt" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376535559043" ignored="false" />
     <file path="/README.md" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376485861171" ignored="false" />
+    <file path="$PROJECT_DIR$/../drunken-dog/js/viewer/discussion_thread.js" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376538698547" ignored="false" />
+    <file path="$PROJECT_DIR$/../drunken-dog/js/general/video_player.js" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376644882463" ignored="false" />
+    <file path="/video_player.js" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376644766031" ignored="false" />
+    <file path="$PROJECT_DIR$/../drunken-dog/css/viewer/viewer_general.css" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376557578853" ignored="false" />
+    <file path="/viewer_general.css" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376557578522" ignored="false" />
+    <file path="$PROJECT_DIR$/../drunken-dog/data1.php" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376620598847" ignored="false" />
+    <file path="/data1.php" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376620598184" ignored="false" />
+    <file path="$PROJECT_DIR$/../drunken-dog/data2.php" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376648901331" ignored="false" />
+    <file path="/data2.php" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376648882326" ignored="false" />
+    <file path="$PROJECT_DIR$/../drunken-dog/testsend.php" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376643397137" ignored="false" />
+    <file path="/testsend.php" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376643395889" ignored="false" />
+    <file path="$PROJECT_DIR$/../drunken-dog/test.txt" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376641395569" ignored="false" />
+    <file path="$PROJECT_DIR$/../drunken-dog/data/data1.json" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376648957987" ignored="false" />
+    <file path="$PROJECT_DIR$/../drunken-dog/data/data2.json" changelist="885919be-caad-45a0-b76c-64d7fa9dd257" time="1376648957987" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +225,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
